@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - casual
 post: https://unboring.net/cases/progressive-webxr-game/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
